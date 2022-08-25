@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarchenkov
-- 👀 I’m interested in Java/Kotlin, Distributed systems and NoSQL
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, Distributed systems and NoSQL
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for remote work
 - 📫 How to reach me andrej.marchenkov@gmail.com @a_marchenkov (Telegram)
