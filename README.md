@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 👋 Hi, I’m @amarchenkov
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in Java, Distributed systems and NoSQL
 - 🌱 I’m currently learning Python
 - 💞️ Might be interesting in remote work
