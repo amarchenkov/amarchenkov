@@ -20,8 +20,10 @@
 - 👀 I’m interested in Java, Distributed systems and NoSQL
 - 🌱 I’m currently learning Python
 - 💞️ Might be interesting in remote work
-- 📫 How to reach me [![Email badge](https://img.shields.io/badge/Email-andrej.marchenkov@gmail.com-red?style=flat&logoColor=white)](mailto:andrej.marchenkov@gmail.com) 
-[![Email badge](https://img.shields.io/badge/Telegram-@a_marchenkov-9cf?style=flat&logoColor=white)](https://t.me/a_marchenkov)
+- 📫 How to reach me: 
+  - [![Email badge](https://img.shields.io/badge/Email-andrej.marchenkov@gmail.com-red?style=flat&logoColor=white)](mailto:andrej.marchenkov@gmail.com) 
+
+  - [![Email badge](https://img.shields.io/badge/Telegram-@a_marchenkov-9cf?style=flat&logoColor=white)](https://t.me/a_marchenkov)
 
 ---
 
