@@ -23,6 +23,8 @@
   - [![Email badge](https://img.shields.io/badge/Email-andrej.marchenkov@gmail.com-red?style=flat&logoColor=white)](mailto:andrej.marchenkov@gmail.com) 
 
   - [![Email badge](https://img.shields.io/badge/Telegram-@a_marchenkov-9cf?style=flat&logoColor=white)](https://t.me/a_marchenkov)
+  - 
+  - [![Email badge](https://img.shields.io/badge/CV-amarchenkov.github.io/cv-018400?style=flat&logoColor=white)](https://amarchenkov.github.io/cv/)
 
 ---
 
