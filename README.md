@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Andrei
 - 👀 I’m interested in Java, Distributed systems and NoSQL
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: 
   - [![Email badge](https://img.shields.io/badge/Email-andrej.marchenkov@gmail.com-red?style=flat&logoColor=white)](mailto:andrej.marchenkov@gmail.com) 
 
